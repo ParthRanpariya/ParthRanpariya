@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ParthRanpariya
+- 👀 I’m interested in embedded systems, software development, and innovative technologies.
+- 🌱 I’m currently learning and exploring new advancements in embedded software and hardware design.
+- 💞️ I’m looking to collaborate on projects related to embedded systems development and software engineering.
+- 📫 How to reach me: https://www.linkedin.com/in/parthkumar-ranpariya/
